@@ -11,7 +11,18 @@
 
 ---
 
-### 🌑 About Me 
+<h3 align="center">🌑 About Me</h3>
+
+<p align="center"> Backend developer focused on building APIs and web application development. I mainly work with NestJS, Prisma and PostgreSQL.
+<br>
+<br>
+</p>
+
+<p align="center">
+- 🔧 Interested in clean and simple architecture. 
+- ⚙️ Experience in designing REST APIs
+- 📍 Puebla, México
+</p>
 
 ---
 
@@ -23,29 +34,23 @@
     <img src="https://img.shields.io/badge/🎧_Antes_de-C.R.O-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black&color=1DB954" />
   </a>
   <br>
-  <!-- Para activar el widget de Spotify necesitas tu USER ID de Spotify.
-       Reemplaza 'TU_USER_ID_SPOTIFY' en la URL de abajo. 
-       Si no quieres el widget, borra esta línea. -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=02a0d11fa71e4cc1997491461461156b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" width="300" />
+  <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=02a0d11fa71e4cc1997491461461156b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" width="300" /> -->
 </p>
 
 ---
-
-### 📜 El Arsenal (Lenguajes y Herramientas)
+<h3 align="center">⚔️ Tech Stack</h3>
 
 <p align="center">
-  <code><img height="45" src="https://skillicons.dev/icons?i=nestjs,prisma,postgres,py,ts&theme=dark" title="Backend Core"></code>
-  <code><img height="45" src="https://skillicons.dev/icons?i=swagger,vscode,git,github,figma,docker&theme=dark" title="Tools"></code>
-  <br>
-  <code><img height="45" src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" title="Frontend Context"></code>
+  <img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,prisma,postgres,html,css,py&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,mysql,git,github,vscode,figma,fastapi,windows&theme=dark" />
 </p>
 
 ---
 
 ### 📈 Observaciones Nocturnas (Métricas)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-Martinez-M&theme=react-dark&hide_border=true&area=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
-
 <br>
 
 <p align="center">
@@ -53,4 +58,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Martinez-M&text_color=333&bg_color=ffffff&title_color=000&langs_count=6&layout=compact&hide_border=true" />
 </p>
 
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leonardo-Martinez-M/Leonardo-Martinez-M/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
