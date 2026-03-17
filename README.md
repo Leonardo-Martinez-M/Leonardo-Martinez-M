@@ -54,13 +54,15 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Martinez-M&show_icons=true&theme=calvin_and_hobbes&hide_border=true&title_color=000&icon_color=000&text_color=333&bg_color=ffffff" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Martinez-M&text_color=333&bg_color=ffffff&title_color=000&langs_count=6&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Martinez-M&show_icons=true&theme=tokyonight&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=d8dee9&bg_color=1a1b26" />
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Martinez-M&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&title_color=81a1c1&text_color=d8dee9&bg_color=1a1b26" />
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leonardo-Martinez-M/Leonardo-Martinez-M/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Leonardo-Martinez-M/Leonardo-Martinez-M/output/github-contribution-grid-snake-dark.svg?sanitize=true&raw=true" />
 </p>
 ---
