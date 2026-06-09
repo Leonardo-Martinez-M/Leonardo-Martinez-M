@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/intl-es/track/5JslD2C8zZdvht6dKc8Pll?si=cd3b1eb8a6164505" target="_blank">
-    <img src="https://img.shields.io/badge/🎧_Antes_de-C.R.O-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black&color=1DB954" />
+    <img src="https://img.shields.io/badge/🎧_Sangre-C.R.O-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=black&color=1DB954" />
   </a>
   <br>
   <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=02a0d11fa71e4cc1997491461461156b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" width="300" /> -->
