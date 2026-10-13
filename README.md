@@ -4,7 +4,7 @@
 
 # 🪶 Leonardo M. M.
 **Software Developer | Backend**  
-*21 years old • Junior code • Romantic at heart*
+*22 years old • Junior code • Romantic at heart*
 
 *"Me quedé porque temía lo que sería sin ella."*  
 — Fiódor Dostoyevski
