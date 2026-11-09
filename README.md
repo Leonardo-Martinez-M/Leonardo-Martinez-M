@@ -3,7 +3,7 @@
 <img src="https://www.savinarte.com/wp-content/uploads/2019/10/GustaveDoreParadiseLostSatanProfile.jpg" width="50%" alt="Gustave Dore - The Fallen Angel">
 
 # 🪶 Leonardo M. M.
-**Software Developer | Backend**  
+**Backend Software Engineer | NestJS, TypeScript, Prisma | AI Tools & Frontend | Process Standardization**  
 *22 years old • Junior code • Romantic at heart*
 
 *"Me quedé porque temía lo que sería sin ella."*  
