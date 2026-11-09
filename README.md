@@ -66,11 +66,11 @@ I learn from those with more experience and help wherever I can to get the proje
 
 <h3 align="center">C R A F T</h3>
 
-<p align="left">
-<b>Backend</b> &mdash; REST API design, modular architecture with NestJS, data modeling with Prisma and PostgreSQL.<br>
-<b>Documentation</b> &mdash; APIs documented with Swagger and Scalar.<br>
-<b>AI-assisted development</b> &mdash; Antigravity, Claude, custom skills and MCP servers integrated into daily work.<br>
-<b>Frontend</b> &mdash; Next.js, React and Tailwind CSS to support the full cycle.
+<p align="center">
+<b>Backend</b> <br>&mdash; REST API design, modular architecture with NestJS, data modeling with Prisma and PostgreSQL.<br>
+<b>Documentation</b><br> &mdash; APIs documented with Swagger and Scalar.<br>
+<b>AI-assisted development</b><br> &mdash; Antigravity, Claude, custom skills and MCP servers integrated into daily work.<br>
+<b>Frontend</b><br> &mdash; Next.js, React and Tailwind CSS to support the full cycle.
 </p>
 
 <p align="center">&mdash;&mdash;&mdash; &nbsp;&dagger;&nbsp; &mdash;&mdash;&mdash;</p>
