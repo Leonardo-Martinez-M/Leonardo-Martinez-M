@@ -12,7 +12,7 @@
 
 <br>
 
-NestJS &middot; TypeScript &middot; Prisma &middot; AI-Assisted Workflows  
+Backend Software Engineer | NestJS, TypeScript, Prisma | AI Tools & Frontend | Process Standardization 
 *22 years old &middot; Puebla, México &middot; Romantic at heart*
 
 </div>
