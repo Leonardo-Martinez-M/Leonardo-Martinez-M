@@ -4,9 +4,7 @@
 
 <br>
 
-<img src="https://www.savinarte.com/wp-content/uploads/2019/10/GustaveDoreParadiseLostSatanProfile.jpg" width="40%" alt="Gustave Dore - The Fallen Angel">
-
-<br>
+<img src="assets/ascii-art.png" width="80%" alt="Gustave Dore - The Fallen Angel">
 <br>
 
 *"Me quedé porque temía lo que sería sin ella."*  
@@ -87,13 +85,6 @@ I learn from those with more experience and help wherever I can to get the proje
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Tooling" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-1a1b26?style=for-the-badge&labelColor=0b0b10&color=81a1c1" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude-1a1b26?style=for-the-badge&logo=claude&logoColor=d8dee9&labelColor=0b0b10&color=81a1c1" alt="Claude" />
-  <img src="https://img.shields.io/badge/Swagger-1a1b26?style=for-the-badge&logo=swagger&logoColor=d8dee9&labelColor=0b0b10&color=81a1c1" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Scalar-1a1b26?style=for-the-badge&labelColor=0b0b10&color=81a1c1" alt="Scalar" />
 </p>
 
 <p align="center">&mdash;&mdash;&mdash; &nbsp;&dagger;&nbsp; &mdash;&mdash;&mdash;</p>
